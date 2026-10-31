@@ -30,7 +30,7 @@ Pada pembuatan konten digital, isu privasi, keamanan naskah, dan biaya operasion
 ## 🚀 Tech Stack
 
 * **UI Framework:** [Gradio](https://gradio.app/) (`hmb/terminal` theme)
-* **Primary Open-Weight LLM:** Llama 3.2 (3B) via [Ollama](https://ollama.com/)
+* **Primary Open-Weight LLM:** Gemma 2 (2B) via [Ollama](https://ollama.com/)
 * **Audio Transcription:** [OpenAI Whisper](https://github.com/openai/whisper) (`tiny` model)
 * **Data Visualization:** Plotly Graph Objects
 * **Secondary Sync API (Opsional):** Google GenAI SDK (`gemini-2.5-flash`)
