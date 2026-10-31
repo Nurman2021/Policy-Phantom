@@ -1,0 +1,6 @@
+gradio
+requests
+openai-whisper
+plotly
+google-genai
+python-dotenv
